@@ -1,0 +1,68 @@
+{
+  "name": "Lucas Mantoani",
+  "photo": "https://avatars.githubusercontent.com/u/68780949?v=4",
+  "job": "Desenvolvedor Front End",
+  "location": "Marília - SP",
+  "phone": "(14) 98112-4806",
+  "email": "lucas@lucasmantoani.com.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/lucas-mantoani/js-developer-portfolio/main/data/imgs/css.svg"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/lucas-mantoani/js-developer-portfolio/main/data/imgs/php.svg"
+      },
+      {
+        "name": "JS",
+        "logo": "https://raw.githubusercontent.com/lucas-mantoani/js-developer-portfolio/main/data/imgs/js.svg"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/lucas-mantoani/js-developer-portfolio/main/data/imgs/mysql.svg"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/lucas-mantoani/js-developer-portfolio/main/data/imgs/html.svg"
+      }
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Compromisso com resultados"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (iniciante)"
+    ],
+  "portfolio": [
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/lucas-mantoani/pokedex",
+      "github": true
+    },
+    {
+      "name": "Consulta de CEP",
+      "url": "https://github.com/lucas-mantoani/consultacep",
+      "github": true
+    } 
+  ],
+  "professionalExperience": [
+    {
+      "name": "Front-end Developer  / Mustache Marketing",
+      "period": "Abr 2019 - Atualmente",
+      "description": "Desenvolvimento, manutenção e implementação de aplicações web, fazendo uso das tecnologias WordPress, HTML, PHP, JavaScript, Frameworks CSS e MySQL."
+    },
+    {
+      "name": "Webdesigner / Trilhos Comunicação",
+      "period": "Set 2017 - 2018",
+      "description": "Desenvolvimento de peças gráficas para redes sociais bem como a criação de sites e catálogos virtuais."
+    }
+  ]
+}
